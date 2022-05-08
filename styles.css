@@ -1,0 +1,16 @@
+body {
+  background-color: #000000;
+  color: #fff5ee;
+  font-family: Helvetica;
+  opacity: 0.9;
+}
+
+#logo {
+    font-size: 50px;
+    text-align: left;
+}
+
+nav a {
+    float: right;
+    
+}
