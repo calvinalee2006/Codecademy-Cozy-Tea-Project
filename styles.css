@@ -5,12 +5,24 @@ body {
   opacity: 0.9;
 }
 
-#logo {
-    font-size: 50px;
-    text-align: left;
+header{
+  border-bottom: 1px solid #fff5ee;
+}
+
+.logo {
+  font-size: 50px;
+  margin-left: 10px;
+  padding-top: 19px;
 }
 
 nav a {
-    float: right;
-    
+  float: right; 
+  padding-top: 19px;
+  text-decoration:underline;
+  font-size:30px;
+  padding-right:5px;
+}
+
+.name{
+
 }
